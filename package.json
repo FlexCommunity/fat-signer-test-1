@@ -1,0 +1,20 @@
+{
+  "name": "fat-signer-test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'Build is empty'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlexCommunity/fat-signer-test-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlexCommunity/fat-signer-test-1/issues"
+  },
+  "homepage": "https://github.com/FlexCommunity/fat-signer-test-1#readme"
+}
